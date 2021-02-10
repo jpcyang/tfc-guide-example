@@ -17,3 +17,4 @@ variable "db_write_capacity" {
   type    = number
   default = 1
 }
+
